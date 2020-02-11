@@ -1,0 +1,13 @@
+venv/*
+*.pyc
+.python-version
+.idea/
+.vagrant/
+dist/
+build/
+__pycache__/
+.DS_Store
+.cache/
+.vscode/
+*.egg-info/
+.pytest_cache/
